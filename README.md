@@ -5,7 +5,7 @@
 
 - 🔭 I do software :computer: and games :video_game:
 - 🌱 Currently learning mainly .NET core and Unity ECS
-- :heart: Eternally grateful for all open source and kind people out there!
+- :heart: Eternally grateful for all free software and kind people out there!
 
 <img align="center" alt="Antti Järvinen's github stats" src="https://github-readme-stats-jet-eight.vercel.app/api?username=antja0&count_private=true&show_icons=true" />
 <img align="center" src="https://github-readme-stats-jet-eight.vercel.app/api/top-langs/?username=antja0" />
